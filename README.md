@@ -50,7 +50,7 @@ Would you like me to also **design a sample visualization layout** (like charts 
 
 
 ## Screenshots / Demos
-https://github.com/HartiMegha/Call-center-MIS-report/blob/main/MIS%20Dashboard.png
+Show what the dashboard looks like. -  ![Alt text](https://github.com/HartiMegha/Call-center-MIS-report/blob/main/MIS%20Dashboard.png)
 
 
 
