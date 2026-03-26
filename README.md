@@ -5,7 +5,6 @@ This project provides a **Management Information System (MIS) dashboard** for an
 
 ## 🛠 Tech Stack
 - **Excel / Pivot Tables** – for data aggregation and reporting  
-- **Power BI (optional)** – for interactive dashboards and visualization  
 - **Data Analysis Techniques** – pivoting, ranking, and performance metrics  
 
 ## 📂 Data Source
