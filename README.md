@@ -1,8 +1,3 @@
-# Call-center-MIS-report
-Here’s a polished draft for your GitHub README based on the uploaded call center MIS report:
-
----
-
 # 📊 Call Center MIS Dashboard
 
 ## 🔹 Short Description / Purpose
