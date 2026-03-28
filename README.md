@@ -40,7 +40,6 @@ This project provides a **Management Information System (MIS) dashboard** for an
 
 ---
 
-Would you like me to also **design a sample visualization layout** (like charts and KPIs for GitHub README) so that it looks more engaging and professional?
 
 
 ## Screenshots / Demos
